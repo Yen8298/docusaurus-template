@@ -56,12 +56,11 @@ module.exports = {
     '@docusaurus/plugin-client-redirects',
     // highlight-start
     {
-      fromExtensions: ['html', 'htm'], // /myPage.html -> /myPage
       redirects: [
         // Redirect from multiple old paths to the new path
         {
           to: '/supported-environments',
-          from: ['/katalon-studio/new/version-8x.html'],
+          from: '/katalon-studio/new/version-8x.html',
         },
       ],
     },
