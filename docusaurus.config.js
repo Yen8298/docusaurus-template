@@ -60,7 +60,7 @@ module.exports = {
       redirects: [
         // Redirect from multiple old paths to the new path
         {
-          to: '/katalon-studio-enterprise/release-notes/version-8.x',
+          to: '/supported-environments',
           from: ['/katalon-studio/new/version-8x.html'],
         },
       ],
