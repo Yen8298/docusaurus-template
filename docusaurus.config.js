@@ -52,8 +52,6 @@ module.exports = {
     //     indexPages: false,
     //     language: "en"
     // }]
-  'docusaurus-plugin-sass',
-  'docusaurus-plugin-image-zoom',
   [
     '@docusaurus/plugin-client-redirects',
     // highlight-start
