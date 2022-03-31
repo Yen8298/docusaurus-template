@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "latest",
+    "@docusaurus/plugin-client-redirects": "^2.0.0-beta.18",
     "@docusaurus/preset-classic": "latest",
     "@mdx-js/react": "^1.6.21",
     "clsx": "latest",
