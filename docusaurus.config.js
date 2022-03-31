@@ -60,7 +60,7 @@ module.exports = {
         // Redirect from multiple old paths to the new path
         {
           to: '/supported-environments',
-          from: '/katalon-studio/new/version-8x.html',
+          from: '/version-6.x',
         },
       ],
     },
