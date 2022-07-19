@@ -56,13 +56,6 @@ module.exports = {
     '@docusaurus/plugin-client-redirects',
     // highlight-start
     {
-      redirects: [
-        // Redirect from multiple old paths to the new path
-        {
-          to: '/katalon-studio-enterprise/release-notes/version-8.x',
-          from: '/katalon-studio/new/version-8x.html',
-        },
-      ],
     },
     // highlight-end
   ],
